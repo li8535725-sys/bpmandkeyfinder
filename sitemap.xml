@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- 首页 / 核心工具页面 (唯一的页面) -->
+    <!-- 优先级最高：这是您的网站本身。 -->
+    <url>
+        <loc>https://bpmandkeyfinder.online/</loc>
+        <lastmod>2025-10-25</lastmod> <!-- 请替换为实际的最后修改日期 -->
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
